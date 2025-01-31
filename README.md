@@ -1,4 +1,6 @@
-## Hi, I'am Roy ! 👋
+<h1 align="center">
+Hi, I'am Roy ! 👋
+</h1>
 
 👨‍🎓 I am a student at the BUT [Multimedia and Internet Professions](https://iut.univ-gustave-eiffel.fr/metiers-du-multimedia-et-de-linternet) in France.<br>
 💻 My interests are web development, video and editing.<br>
@@ -20,6 +22,34 @@
 ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
+
+## 📸 My Instagram Videos
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://www.instagram.com/reel/C9aNg3JKHts/" target="_blank">
+        <img src="https://www.instagram.com/p/C9aNg3JKHts/media/?size=l" width="250">
+      </a>
+      <br><b>180 589 Views | 20,1K Likes</b>
+    </td>
+    <td width="50"></td> <!-- Espace entre les images -->
+    <td align="center">
+      <a href="https://www.instagram.com/reel/C892enaq7cF/" target="_blank">
+        <img src="https://www.instagram.com/p/C892enaq7cF/media/?size=l" width="250">
+      </a>
+      <br><b>7 887 Views | 1,1K Likes</b>
+    </td>
+    <td width="50"></td> <!-- Espace entre les images -->
+    <td align="center">
+      <a href="https://www.instagram.com/reel/C8mrp0qKEuk/" target="_blank">
+        <img src="https://www.instagram.com/p/C8mrp0qKEuk/media/?size=l" width="250">
+      </a>
+      <br><b>2 070 Views | 223 Likes</b>
+    </td>
+  </tr>
+</table>
+
 
 ## 📊 GitHub Stats
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats-->
