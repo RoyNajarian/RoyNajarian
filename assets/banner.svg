@@ -10,17 +10,6 @@
       <stop offset="0" stop-color="#DC2F2F" stop-opacity="0.18"/>
       <stop offset="1" stop-color="#DC2F2F" stop-opacity="0"/>
     </radialGradient>
-    <pattern id="checker" width="24" height="24" patternUnits="userSpaceOnUse">
-      <rect width="12" height="12" fill="#fff"/>
-      <rect x="12" y="12" width="12" height="12" fill="#fff"/>
-    </pattern>
-    <linearGradient id="fade" x1="1" y1="0" x2="0" y2="0">
-      <stop offset="0" stop-color="#fff" stop-opacity="0.09"/>
-      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
-    </linearGradient>
-    <mask id="checkerMask">
-      <rect x="820" width="380" height="340" fill="url(#fade)"/>
-    </mask>
     <filter id="glow" x="-20%" y="-60%" width="140%" height="220%">
       <feGaussianBlur stdDeviation="5" result="b"/>
       <feComponentTransfer in="b" result="bs"><feFuncA type="linear" slope="0.6"/></feComponentTransfer>
@@ -47,7 +36,11 @@
   <g clip-path="url(#frame)">
     <rect width="1200" height="340" fill="url(#bg)"/>
     <rect width="1200" height="340" fill="url(#halo)"/>
-    <rect x="820" width="380" height="340" fill="url(#checker)" mask="url(#checkerMask)"/>
+    <g fill="#DC2F2F">
+      <polygon points="1010,0 1060,0 960,340 910,340" opacity=".10"/>
+      <polygon points="1075,0 1095,0 995,340 975,340" opacity=".16"/>
+      <polygon points="1110,0 1200,0 1200,40 1100,340 1010,340" opacity=".06"/>
+    </g>
 
     <g>
       <line class="speed"    x1="900" y1="70"  x2="1080" y2="70"/>
