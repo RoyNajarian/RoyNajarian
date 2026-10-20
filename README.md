@@ -1,22 +1,56 @@
-<h1 align="center">
-Hi, I'am Roy ! 👋
-</h1>
+<p align="center">
+  <a href="https://roynajarian.fr/">
+    <img src="./assets/banner.svg" alt="Roy Najarian, web developer and UX/UI designer" width="100%">
+  </a>
+</p>
 
-👨‍🎓 I am a student at the BUT [Multimedia and Internet Professions](https://iut.univ-gustave-eiffel.fr/metiers-du-multimedia-et-de-linternet) in France.<br>
-💻 My interests are web development, video and editing.<br>
-🏆 <b>Opquast Certified</b> (808 points) - Web Quality Professional.<br>
-🚀 Currently preparing for the <b>Three.js</b> certification to master 3D web experiences!
+<p align="center">
+  <a href="https://roynajarian.fr/"><img src="https://img.shields.io/badge/PORTFOLIO-0A0A0A?style=for-the-badge&logo=googlechrome&logoColor=DC2F2F" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/roynajarian/"><img src="https://img.shields.io/badge/LINKEDIN-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=DC2F2F" alt="LinkedIn"></a>
+  <a href="https://directory.opquast.com/fr/certificates/roy-najarian/"><img src="https://img.shields.io/badge/OPQUAST-808%2F1000-DC2F2F?style=for-the-badge&labelColor=0A0A0A" alt="Opquast 808/1000"></a>
+</p>
+
+<br>
+
+## Hi, I'm Roy! 👋
+
+Third-year student in **BUT MMI** (Multimedia and Internet Professions) at Université Gustave Eiffel, I specialize in web development. Since September 2026, I've been working as a WordPress web developer and digital communication officer at **Themacs Ingénierie** as part of a work-study program.
+
+Beyond code, I have a strong interest in design, video and editing, which led me to build solid web development skills while growing my expertise in Figma and the Adobe suite. Certified **Opquast** (808/1000) and currently preparing the **Three.js** certification.
+
+<br>
 
 ## 💻 Tech Stack
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/html5-%231572B6.svg?style=for-the-badge&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Doctrine](https://img.shields.io/badge/doctrine-%23F56D39.svg?style=for-the-badge&logo=doctrine&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,php,mysql,threejs,wordpress,bootstrap,git,github&theme=dark" alt="Development stack">
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,ps,ai,ae,pr&theme=dark" alt="Design tools">
+</p>
+
+<br>
+
+## 🚀 My Projects
+
+| Project | Stack | Date |
+|:--|:--|:--|
+| [**CroustyMap**](https://croustymap.roynajarian.fr/)<br><sub>Group project. A map of every CROUS and restaurant on the Gustave Eiffel campus, with filters, a live chat per venue and a full back office.</sub> | `PHP` `JS` `SQL` `Leaflet` `ArcGIS` `Figma` | 09/2025 → 01/2026 |
+| [**Databubu**](https://www.databubu.roynajarian.fr/)<br><sub>Duo project. A playful one-page data visualization of the Labubu phenomenon, with interactive charts and a dynamic map.</sub> | `JS` `Chart.js` `Leaflet` `ArcGIS` `Figma` | 09/2025 → 11/2025 |
+| [**Evodriver**](https://www.evodriver.roynajarian.fr/)<br><sub>A responsive website tracing automotive history through a car database, with dynamic sorting and a timeline for each vehicle.</sub> | `PHP` `JS` `SQL` `Figma` | 03/2025 → 06/2025 |
+| [**NIRD**](https://nird.roynajarian.fr/)<br><sub>A 16-hour solo hackathon during La Nuit de l'Info. An informative site on inclusive and sustainable tech, from content and mockup to development.</sub> | `JS` `Chart.js` `Figma` | 12/2025 |
+
+<p align="right"><a href="https://roynajarian.fr/"><b>More on my portfolio →</b></a></p>
+
+<br>
 
 ## 📊 GitHub Stats
-<!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats-->
-[![Roy's GitHub stats](https://github-readme-stats.vercel.app/api?username=RoyNajarian&show_icons=true&theme=radical)](https://github.com/RoyNajarian/github-readme-stats)
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=RoyNajarian&show_icons=true&bg_color=0A0A0A&title_color=DC2F2F&text_color=E6E6E6&icon_color=DC2F2F&ring_color=DC2F2F&border_color=3A1414&border_radius=12" alt="GitHub stats">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoyNajarian&layout=compact&bg_color=0A0A0A&title_color=DC2F2F&text_color=E6E6E6&border_color=3A1414&border_radius=12" alt="Most used languages">
+</p>
+
+<br>
+
+<p align="center"><sub>A work-study offer, a project, or just want to talk ? <a href="mailto:roynajarian@gmail.com">Get in touch.</a></sub></p>
