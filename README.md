@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://roynajarian.fr/">
-    <img src="./assets/banner.svg" alt="Roy Najarian, web developer and UX/UI designer" width="100%">
+    <img src="./assets/banner.svg?v=2" alt="Roy Najarian, web developer and UX/UI designer" width="100%">
   </a>
 </p>
 
