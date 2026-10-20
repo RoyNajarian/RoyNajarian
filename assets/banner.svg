@@ -15,7 +15,7 @@
       <feComponentTransfer in="b" result="bs"><feFuncA type="linear" slope="0.6"/></feComponentTransfer>
       <feMerge><feMergeNode in="bs"/><feMergeNode in="SourceGraphic"/></feMerge>
     </filter>
-    <filter id="redGlow" x="-50%" y="-300%" width="200%" height="700%">
+    <filter id="redGlow" filterUnits="userSpaceOnUse" x="0" y="0" width="1200" height="340">
       <feGaussianBlur stdDeviation="4" result="b"/>
       <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
     </filter>
